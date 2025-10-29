@@ -1,2 +1,5 @@
 # 4th-computing
-4th Form Computing Resources
+
+## Resources
+
+There are theory and python based resources. 
